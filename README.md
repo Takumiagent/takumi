@@ -34,5 +34,3 @@ python takumi_ai/main.py
 MIT
 
 ## 🖼️ Visual Identity
-
-Add your Takumi avatar here.
