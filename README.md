@@ -30,6 +30,7 @@ Takumi runs on an adaptive emotional engine that reacts to price, volume, and so
 | 2025-07-10 09:48:25 | 26.39     | 0.30     | Place misleading limit orders |
 | ...                  | ...       | ...      | ...                               |
 
+![Mock Trade Chart](assets/trade_chart.png)
 
 ---
 
@@ -65,5 +66,7 @@ MIT
 ---
 
 ## 🖼️ Visual Identity
+
+![Takumi Avatar](assets/takumi_avatar.png)
 
 > Designed using stylized Japanese themes and emotion-based AI cues.
