@@ -65,4 +65,4 @@ MIT
 ---
 
 
-> Designed using stylized Japanese themes and emotion-based AI cues.
+
