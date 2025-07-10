@@ -2,7 +2,7 @@
 
 ![Takumi Demo](assets/takumi_demo.gif)
 
-Takumi is an experimental, emotionally-aware crypto trading agent. Inspired by Kuromi, Takumi doesn’t just calculate — he *feels*.
+Takumi is an experimental, emotionally-aware crypto trading agent. Takumi doesn’t just calculate — he *feels*.
 
 > “Master of emotion. Student of the market.”
 
@@ -36,7 +36,6 @@ Takumi runs on an adaptive emotional engine that reacts to price, volume, and so
 | 2025-07-10 09:48:25 | 26.39     | 0.30     | Place misleading limit orders |
 | ...                  | ...       | ...      | ...                               |
 
-![Mock Trade Chart](assets/trade_chart.png)
 
 ---
 
@@ -122,7 +121,3 @@ MIT
 ---
 
 ## 🖼️ Visual Identity
-
-![Takumi Avatar](assets/takumi_avatar.png)
-
-> Designed using stylized Japanese themes and emotion-based AI cues.
